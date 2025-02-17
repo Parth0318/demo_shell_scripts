@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 
 hero="rancho"
 
@@ -33,5 +33,4 @@ echo "third idiot : $3"
 echo "total no of idiots $#"
 
 echo "Hence all idiots are $@"
-
 
